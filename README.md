@@ -1,2 +1,2 @@
 # HTML5EmailTemplate
-Node &amp; AngularJS
+Simple HTML5 Email Template that can be used for email marketing.
